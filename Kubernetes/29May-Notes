@@ -9,7 +9,7 @@ Kube-system: Hold pods created for kubernetes components
 If there is no namespace:
 ===========================
 
-Run this YAMl file to create a POD => pod will be create din default namespace
+Run this YAMl file to create a POD => pod will be created in default namespace
 
 kind: Pod
 # apiVersion defines which code schema that k8s will use to create the object
